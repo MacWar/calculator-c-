@@ -1,0 +1,14 @@
+C:\Users\matwa\source\programowanieOb\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\matwa\source\programowanieOb\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\matwa\source\programowanieOb\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\App.g.cs
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator_MarkupCompile.cache
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator_MarkupCompile.lref
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\MainWindow.baml
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator.g.resources
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\matwa\source\programowanieOb\kalkulator\obj\Debug\kalkulator.pdb
